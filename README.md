@@ -10,3 +10,7 @@ An autonomous driving simulation built using Python and Pygame.
 - Collision detection
 - Lane-based navigation
 - Real-time score system
+
+## Gameplay Screenshot
+
+![Gameplay](screenshots/gameplay.png)
