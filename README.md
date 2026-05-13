@@ -1,16 +1,33 @@
-# 🚗 AI Self-Driving Car Simulation
+# 🚗 AI-Based Autonomous Traffic Simulation System
 
-An autonomous driving simulation built using Python and Pygame.
+An AI-powered autonomous driving and traffic simulation system built using Python and Pygame featuring obstacle avoidance, traffic light handling, lane navigation, and real-time AI decision-making.
 
-## Features
-- Human driving mode
-- AI driving mode
-- Multiple traffic cars
-- AI sensor visualization
+## ✨ Features
+
+- AI autonomous driving
+- Traffic light system
+- Obstacle avoidance
+- Smart lane switching
+- Human vs AI mode
+- Traffic density simulation
+- Real-time analytics dashboard
 - Collision detection
-- Lane-based navigation
-- Real-time score system
 
 ## Gameplay Screenshot
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](SS/gameplay.png)
+
+## 🛠️ Technologies Used
+
+- Python
+- Pygame
+- AI Logic
+- Simulation Systems
+
+## 🚀 Future Improvements
+
+- Reinforcement Learning
+- Computer Vision
+- Weather Simulation
+- Night Mode
+- Neural Network Driving AI
